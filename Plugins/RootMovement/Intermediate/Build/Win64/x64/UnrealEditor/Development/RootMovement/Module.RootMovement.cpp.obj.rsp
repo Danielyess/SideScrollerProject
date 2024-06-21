@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp"
 /FI"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Intermediate\Build\Win64\x64\SideScrollerProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
 /FI"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Definitions.RootMovement.h"
@@ -6,6 +7,16 @@
 /Fo"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
 /sourceDependencies "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.dep.json"
 @"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\RootMovement.Shared.rsp"
+=======
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp"
+/FI"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Definitions.RootMovement.h"
+/Yu"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+/sourceDependencies "C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.dep.json"
+@"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\RootMovement.Shared.rsp"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 /Zc:inline
 /nologo
 /Oi

@@ -13,7 +13,11 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
+<<<<<<< HEAD
 	"Installed": true,
+=======
+	"Installed": false,
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	"Modules": [
 		{
 			"Name": "RootMovement",

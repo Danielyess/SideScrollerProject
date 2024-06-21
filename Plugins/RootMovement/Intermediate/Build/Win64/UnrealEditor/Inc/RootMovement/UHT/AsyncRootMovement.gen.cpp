@@ -166,6 +166,7 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement_Statics::Function_MetaDataParams[] = {
 		{ "BlueprintInternalUseOnly", "true" },
 		{ "Category", "RootMovement" },
+<<<<<<< HEAD
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n     * Apply root motion movement to passed Character Movement Component\n     */" },
 #endif
@@ -175,6 +176,13 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Apply root motion movement to passed Character Movement Component" },
 #endif
+=======
+		{ "Comment", "/**\n     * Apply root motion movement to passed Character Movement Component\n     */" },
+		{ "DisplayName", "Apply Root Motion Constant Force with Callbacks" },
+		{ "Keywords", "RootMovement RootMotion Root Motion Movement" },
+		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+		{ "ToolTip", "Apply root motion movement to passed Character Movement Component" },
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 		{ "WorldContext", "WorldContext" },
 	};
 #endif
@@ -220,11 +228,16 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UAsyncRootMovement_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_UAsyncRootMovement_Statics::FuncInfo[] = {
+<<<<<<< HEAD
 		{ &Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement, "AsyncRootMovement" }, // 1076994340
+=======
+		{ &Z_Construct_UFunction_UAsyncRootMovement_AsyncRootMovement, "AsyncRootMovement" }, // 729554618
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UAsyncRootMovement_Statics::FuncInfo) < 2048);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAsyncRootMovement_Statics::Class_MetaDataParams[] = {
+<<<<<<< HEAD
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/**\n * Enables root based movement with callbacks\n */" },
 #endif
@@ -233,10 +246,17 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Enables root based movement with callbacks" },
 #endif
+=======
+		{ "Comment", "/**\n * Enables root based movement with callbacks\n */" },
+		{ "IncludePath", "AsyncRootMovement.h" },
+		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+		{ "ToolTip", "Enables root based movement with callbacks" },
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	};
 #endif
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnComplete_MetaData[] = {
+<<<<<<< HEAD
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/* A delegate called when the async action completes. */" },
 #endif
@@ -244,11 +264,17 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "A delegate called when the async action completes." },
 #endif
+=======
+		{ "Comment", "/* A delegate called when the async action completes. */" },
+		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+		{ "ToolTip", "A delegate called when the async action completes." },
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	};
 #endif
 	const UECodeGen_Private::FMulticastDelegatePropertyParams Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnComplete = { "OnComplete", nullptr, (EPropertyFlags)0x0040000010080000, UECodeGen_Private::EPropertyGenFlags::InlineMulticastDelegate, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UAsyncRootMovement, OnComplete), Z_Construct_UDelegateFunction_RootMovement_MovementEvent__DelegateSignature, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnComplete_MetaData), Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnComplete_MetaData) }; // 673059212
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnFail_MetaData[] = {
+<<<<<<< HEAD
 #if !UE_BUILD_SHIPPING
 		{ "Comment", "/* A delegate called when the async action fails. */" },
 #endif
@@ -256,6 +282,11 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "A delegate called when the async action fails." },
 #endif
+=======
+		{ "Comment", "/* A delegate called when the async action fails. */" },
+		{ "ModuleRelativePath", "Public/AsyncRootMovement.h" },
+		{ "ToolTip", "A delegate called when the async action fails." },
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	};
 #endif
 	const UECodeGen_Private::FMulticastDelegatePropertyParams Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnFail = { "OnFail", nullptr, (EPropertyFlags)0x0040000010080000, UECodeGen_Private::EPropertyGenFlags::InlineMulticastDelegate, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UAsyncRootMovement, OnFail), Z_Construct_UDelegateFunction_RootMovement_MovementEvent__DelegateSignature, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnFail_MetaData), Z_Construct_UClass_UAsyncRootMovement_Statics::NewProp_OnFail_MetaData) }; // 673059212
@@ -297,6 +328,7 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 	UAsyncRootMovement::UAsyncRootMovement(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UAsyncRootMovement);
 	UAsyncRootMovement::~UAsyncRootMovement() {}
+<<<<<<< HEAD
 	struct Z_CompiledInDeferFile_FID_SideScrollerProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
@@ -306,6 +338,17 @@ void FMovementEvent_DelegateWrapper(const FMulticastScriptDelegate& MovementEven
 	};
 	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_SideScrollerProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_462141003(TEXT("/Script/RootMovement"),
 		Z_CompiledInDeferFile_FID_SideScrollerProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_SideScrollerProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo),
+=======
+	struct Z_CompiledInDeferFile_FID_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UAsyncRootMovement, UAsyncRootMovement::StaticClass, TEXT("UAsyncRootMovement"), &Z_Registration_Info_UClass_UAsyncRootMovement, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAsyncRootMovement), 3318812169U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_454372784(TEXT("/Script/RootMovement"),
+		Z_CompiledInDeferFile_FID_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_RootMovement_Source_RootMovement_Public_AsyncRootMovement_h_Statics::ClassInfo),
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

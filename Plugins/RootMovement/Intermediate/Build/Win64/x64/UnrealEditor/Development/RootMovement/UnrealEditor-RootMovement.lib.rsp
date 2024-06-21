@@ -6,7 +6,14 @@
 /NAME:"UnrealEditor-RootMovement.dll"
 /IGNORE:4221
 /NODEFAULTLIB
+<<<<<<< HEAD
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Intermediate\Build\Win64\x64\SideScrollerProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
 /OUT:"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.lib"
+=======
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.lib"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b

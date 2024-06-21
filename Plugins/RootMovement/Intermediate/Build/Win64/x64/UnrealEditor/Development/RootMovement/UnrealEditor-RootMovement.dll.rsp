@@ -34,9 +34,15 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
+<<<<<<< HEAD
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Intermediate\Build\Win64\x64\SideScrollerProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
 "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
+=======
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Module.RootMovement.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\Default.rc2.res"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -67,7 +73,13 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
+<<<<<<< HEAD
 /OUT:"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.dll"
 /IMPLIB:"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.sup.lib"
 /PDB:"C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.pdb"
+=======
+/OUT:"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.dll"
+/IMPLIB:"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\x64\UnrealEditor\Development\RootMovement\UnrealEditor-RootMovement.sup.lib"
+/PDB:"C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Binaries\Win64\UnrealEditor-RootMovement.pdb"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 /ignore:4078

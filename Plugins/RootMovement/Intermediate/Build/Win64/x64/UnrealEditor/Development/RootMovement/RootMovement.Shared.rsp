@@ -1,5 +1,9 @@
 /I "."
+<<<<<<< HEAD
 /I "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Source\RootMovement\Private"
+=======
+/I "C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Source\RootMovement\Private"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT"
 /I "Runtime\CoreUObject\Public"
 /I "Runtime\CoreUObject\Internal"
@@ -257,9 +261,15 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+<<<<<<< HEAD
 /I "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Intermediate\Build\Win64\UnrealEditor\Inc\RootMovement\UHT"
 /I "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Source"
 /I "C:\Users\User\Documents\Unreal Projects\SideScrollerProject\Plugins\RootMovement\Source\RootMovement\Public"
+=======
+/I "C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Intermediate\Build\Win64\UnrealEditor\Inc\RootMovement\UHT"
+/I "C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Source"
+/I "C:\Users\User\Documents\Unreal Projects\Plugins\Rot\RootMovement\HostProject\Plugins\RootMovement\Source\RootMovement\Public"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"

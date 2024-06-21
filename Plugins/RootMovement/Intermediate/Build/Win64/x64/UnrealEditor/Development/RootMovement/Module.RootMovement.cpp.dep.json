@@ -1,6 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< HEAD
         "Source": "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rootmovement\\module.rootmovement.cpp",
         "ProvidedModule": "",
         "PCH": "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\intermediate\\build\\win64\\x64\\sidescrollerprojecteditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
@@ -8,6 +9,15 @@
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rootmovement\\definitions.rootmovement.h",
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\asyncrootmovement.gen.cpp",
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\source\\rootmovement\\public\\asyncrootmovement.h",
+=======
+        "Source": "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rootmovement\\module.rootmovement.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rootmovement\\definitions.rootmovement.h",
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\asyncrootmovement.gen.cpp",
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\asyncrootmovement.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementcomponent.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
@@ -36,9 +46,15 @@
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
+<<<<<<< HEAD
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\asyncrootmovement.generated.h",
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\rootmovement.init.gen.cpp",
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\source\\rootmovement\\private\\asyncrootmovement.cpp",
+=======
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\asyncrootmovement.generated.h",
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\intermediate\\build\\win64\\unrealeditor\\inc\\rootmovement\\uht\\rootmovement.init.gen.cpp",
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\asyncrootmovement.cpp",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\engine.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\monolithicheaderboilerplate.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\core\\public\\core.h",
@@ -195,11 +211,15 @@
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\audiomixer\\public\\quartz\\quartzmetronome.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\quartzsubscription.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\quartzsubscriptiontoken.h",
+<<<<<<< HEAD
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclockhandle.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\audiomixer\\public\\quartz\\quartzsubsystem.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclockmanager.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\audiomixer\\uht\\quartzsubsystem.generated.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\audiomixer\\uht\\audiomixerclockhandle.generated.h",
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\consumeallmpmcqueue.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\audiocomponent.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
@@ -273,6 +293,11 @@
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slatecore\\uht\\fontproviderinterface.generated.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\font.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\canvas.h",
+<<<<<<< HEAD
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\canvastypes.h",
+            "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\canvastypes.generated.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\canvas.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
@@ -358,6 +383,13 @@
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\pawnnoiseemittercomponent.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\pawnnoiseemittercomponent.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
+<<<<<<< HEAD
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintinstance.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\physicsengine\\constraintdrives.h",
+            "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintdrives.generated.h",
+            "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\constraintinstance.generated.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicshandlecomponent.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\decalcomponent.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\decalcomponent.generated.h",
@@ -468,6 +500,13 @@
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\exporter.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gameusersettings.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameusersettings.generated.h",
+<<<<<<< HEAD
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettings.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettingsmanager.h",
@@ -539,6 +578,14 @@
             "d:\\games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\selection.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlist.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementcounter.h",
+<<<<<<< HEAD
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementhandle.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementdata.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementid.h",
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlimits.h",
+            "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementhandle.generated.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementcounter.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementselectionset.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementinterfacecustomization.h",
@@ -564,6 +611,10 @@
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\camerastacktypes.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\camerastacktypes.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+<<<<<<< HEAD
+=======
+            "d:\\games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\tests\\textpropertytestobject.h",
             "d:\\games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\textpropertytestobject.generated.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\texturelodsettings.h",
@@ -664,8 +715,13 @@
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\slate\\public\\widgets\\colors\\scolorblock.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sspinbox.h",
             "d:\\games\\ue_5.3\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sslider.h",
+<<<<<<< HEAD
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\source\\rootmovement\\private\\rootmovement.cpp",
             "c:\\users\\user\\documents\\unreal projects\\sidescrollerproject\\plugins\\rootmovement\\source\\rootmovement\\public\\rootmovement.h"
+=======
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\private\\rootmovement.cpp",
+            "c:\\users\\user\\documents\\unreal projects\\plugins\\rot\\rootmovement\\hostproject\\plugins\\rootmovement\\source\\rootmovement\\public\\rootmovement.h"
+>>>>>>> f08c0422865594c136d8b1490df2014a9413401b
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
