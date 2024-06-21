@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
-<<<<<<< HEAD
-	"Modules": [
-		{
-			"Name": "SideScrollerProject",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-=======
->>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -20,13 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-<<<<<<< HEAD
-		},
-		{
-			"Name": "RootMovement",
-			"Enabled": true
-=======
->>>>>>> f08c0422865594c136d8b1490df2014a9413401b
 		}
 	]
 }
