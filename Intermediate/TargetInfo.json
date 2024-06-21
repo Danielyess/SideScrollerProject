@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SideScrollerProject",
+			"Path": "..\\Source\\SideScrollerProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SideScrollerProjectEditor",
+			"Path": "..\\Source\\SideScrollerProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
